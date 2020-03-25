@@ -1,10 +1,10 @@
 # AI-project-for-python
 requirment 
 install some python packages. given below using (pip install packagename).
-pyttsx3
-speech_Recognition
-wikipedia
-webbrowser
+pyttsx3.
+speech_Recognition.
+wikipedia.
+webbrowser.
 
 
 
